@@ -1,7 +1,7 @@
 package nguyentrongduy.com.entity;
 
-public enum UserEnum {
+public enum TaskStatus {
     TODO,
-    GOING,
-    DONE;
+    DOING,
+    DONE
 }
